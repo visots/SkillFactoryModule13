@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Task13_4_5_Dict\Task13_4_5_Dict.csproj" />
+  </ItemGroup>
+
 </Project>
