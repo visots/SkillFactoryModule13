@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task13_3_10", "Task13_3_10\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task13_3_12", "Task13_3_12\Task13_3_12.csproj", "{3A7EA276-5FCF-4381-B353-85941785014E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task13-4-4", "Task13-4-4\Task13-4-4.csproj", "{6A05BDB3-8725-4B86-89E5-D32DD53A5151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task13-4-4", "Task13-4-4\Task13-4-4.csproj", "{6A05BDB3-8725-4B86-89E5-D32DD53A5151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task13_4_5_Dict", "Task13_4_5_Dict\Task13_4_5_Dict.csproj", "{DDF577A0-19A1-426A-9414-3D6E6E34F218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task13_4_5_DictSort", "Task13_4_5_DictSort\Task13_4_5_DictSort.csproj", "{0806DA39-F688-4295-8BF4-900A3A581A39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{6A05BDB3-8725-4B86-89E5-D32DD53A5151}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A05BDB3-8725-4B86-89E5-D32DD53A5151}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A05BDB3-8725-4B86-89E5-D32DD53A5151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF577A0-19A1-426A-9414-3D6E6E34F218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF577A0-19A1-426A-9414-3D6E6E34F218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF577A0-19A1-426A-9414-3D6E6E34F218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF577A0-19A1-426A-9414-3D6E6E34F218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0806DA39-F688-4295-8BF4-900A3A581A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0806DA39-F688-4295-8BF4-900A3A581A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0806DA39-F688-4295-8BF4-900A3A581A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0806DA39-F688-4295-8BF4-900A3A581A39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
